@@ -5,10 +5,10 @@ Game of three with web socket by Ali Ekber Celik.This application developed unde
 
 Technology stack is;
 
-*Java 8
-*Tyrus(Java WebSocket reference implementation)
-*Maven
-*Junit
+* Java 8
+* Tyrus(Java WebSocket reference implementation)
+* Maven
+* Junit
 
 
 ## Build from source
